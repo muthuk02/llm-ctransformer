@@ -1,0 +1,8 @@
+langchain
+ctransformers
+transformers
+ipykernel
+ipywidgets
+llama-index
+ipython-ngql
+sentence_transformers
